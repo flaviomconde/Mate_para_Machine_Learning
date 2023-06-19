@@ -4,10 +4,15 @@ En este repositorio estare subiendo todo lo que voy estudiando para comprender b
 
 ## Para tenerlo en tu computador
 fork a tu repositorio
+
 git clone a tu computador
+
 crear entorno virtual
+
 activar tu entorno
+
 instalar el archivo requirements.txt
+
 y ya podras trabajar con el material
 
 Para poder tenerlo en tu computador te pido que realices un fork a tu repositorio y asi empezar a hacerle tus modificaciones y poder cambiar si deseas los numeros del ejercicio. 
